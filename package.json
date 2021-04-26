@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "typescript": "^4.2.4"
+  },
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Learning Typescript",
+  "main": "index.js",
+  "repository": "https://github.com/wonlee6/typescript-tutorial.git",
+  "author": "wonlee6 <wonlee6@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
